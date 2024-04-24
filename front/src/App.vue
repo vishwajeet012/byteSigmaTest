@@ -11,7 +11,7 @@
 </template>
 
 <script>
-import HelloWorld from './components/HelloWorld.vue';
+import HelloWorld from './components/uploadImage.vue';
 import ImageList from './components/imageList.vue';
 
 export default {
